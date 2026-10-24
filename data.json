@@ -1,0 +1,9 @@
+{
+  "outputFolder": "",
+  "includeDisabled": false,
+  "includeTemplateContent": false,
+  "includeHotkeys": true,
+  "generatedReports": {
+    "Setup-Export.md": "# Obsidian setup\n\n## Preferences → Appearance\n\n- **[CrouzetTheme](https://community.obsidian.md/themes/crouzettheme)** Apply the Solarized color scheme adapted for Obsidian with updates from Minimal, preserving original greys and offering light/dark Style Settings. Render modern components like editable tables, Canvas, PDF, graph view, navigation and mobile layouts for consistent appearance. [Install](obsidian://show-theme?name=CrouzetTheme)\n- Font size : **23**\n\n## Preferences → Core plugins\n\n- **Backlinks**\n- **Bases**\n- **Bookmarks**\n- **Canvas**\n- **Command palette**\n- **Daily notes**\n- **Show editing mode in status bar**\n- **Files**\n- **File recovery**\n- **Search**\n- **Graph view**\n- **Note composer**\n- **Outgoing links**\n- **Outline**\n- **Page preview**\n- **Quick switcher**\n- **Tags view**\n- **Templates**\n\n## Preferences → Community plugins\n\n- **[Finition](https://community.obsidian.md/plugins/finition)** Fignoler vos textes en français : traque répétitions, stéréotypes, fautes d'orthographe et de grammaire avec un correcteur neutonal ou IA. [Install](obsidian://show-plugin?id=finition)\n- **[Folder Fusion](https://community.obsidian.md/plugins/folder-fusion)** For long texts, like novels, compile complete folder hierarchy in one file. [Install](obsidian://show-plugin?id=folder-fusion)\n- **[French Typos](https://community.obsidian.md/plugins/french-typos)** Automatic typographic apostrophe, French quotation marks, dialog marks and more. [Install](obsidian://show-plugin?id=french-typos)\n"
+  }
+}

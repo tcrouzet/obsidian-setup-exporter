@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-setup-exporter",
+  "name": "Setup Exporter",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Generate a Markdown report of your plugins and vault setup.",
+  "author": "Thierry Crouzet",
+  "authorUrl": "https://tcrouzet.com",
+  "fundingUrl": "https://www.paypal.com/donate/?business=MCZTJGYPGXXCW&no_recurring=0&currency_code=EUR",
+  "isDesktopOnly": false
+}
